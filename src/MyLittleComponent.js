@@ -36,7 +36,7 @@ const MyLittleComponent = () => {
   };
 
   const image = {
-    uri: "https://images.unsplash.com/photo-1585562125287-d748f3097a8f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW9uZXl8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+    uri: "https://www.ixpap.com/images/2021/03/cat-wallpaper-ixpap.jpg",
   };
 
   return (

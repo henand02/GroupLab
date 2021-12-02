@@ -8,7 +8,7 @@ const UselessTextInput = () => {
   const [text2, onChangeText2] = React.useState("Email:");
   const [text3, onChangeText3] = React.useState("Password:");
 
-  const image = { uri: "https://wallpaperaccess.com/full/1337873.jpg" };
+  const image = { uri: "https://cdn.wallpapersafari.com/85/47/LIbvrV.jpg" };
 
   return (
 
